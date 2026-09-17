@@ -1,0 +1,37 @@
+"Churn","Variable","Category","Count","Percentage"
+"No","Contract","Month-to-month",2220,42.9
+"No","Contract","One year",1307,25.3
+"No","Contract","Two year",1647,31.8
+"Yes","Contract","Month-to-month",1655,88.6
+"Yes","Contract","One year",166,8.9
+"Yes","Contract","Two year",48,2.6
+"No","Internet Service","DSL",1962,37.9
+"No","Internet Service","Fiber optic",1799,34.8
+"No","Internet Service","No",1413,27.3
+"Yes","Internet Service","DSL",459,24.6
+"Yes","Internet Service","Fiber optic",1297,69.4
+"Yes","Internet Service","No",113,6
+"No","Tech Support","No",2027,39.2
+"No","Tech Support","No internet service",1413,27.3
+"No","Tech Support","Yes",1734,33.5
+"Yes","Tech Support","No",1446,77.4
+"Yes","Tech Support","No internet service",113,6
+"Yes","Tech Support","Yes",310,16.6
+"No","Online Security","No",2037,39.4
+"No","Online Security","No internet service",1413,27.3
+"No","Online Security","Yes",1724,33.3
+"Yes","Online Security","No",1461,78.2
+"Yes","Online Security","No internet service",113,6
+"Yes","Online Security","Yes",295,15.8
+"No","Gender","Female",2549,49.3
+"No","Gender","Male",2625,50.7
+"Yes","Gender","Female",939,50.2
+"Yes","Gender","Male",930,49.8
+"No","Senior Citizen","No",4508,87.1
+"No","Senior Citizen","Yes",666,12.9
+"Yes","Senior Citizen","No",1393,74.5
+"Yes","Senior Citizen","Yes",476,25.5
+"No","Partner","No",2441,47.2
+"No","Partner","Yes",2733,52.8
+"Yes","Partner","No",1200,64.2
+"Yes","Partner","Yes",669,35.8

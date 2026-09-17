@@ -1,0 +1,21 @@
+"Variable","Category","Count","Percentage"
+"Churn","No",5174,73.5
+"Churn","Yes",1869,26.5
+"Contract","Month-to-month",3875,55
+"Contract","One year",1473,20.9
+"Contract","Two year",1695,24.1
+"Internet Service","DSL",2421,34.4
+"Internet Service","Fiber optic",3096,44
+"Internet Service","No",1526,21.7
+"Tech Support","No",3473,49.3
+"Tech Support","No internet service",1526,21.7
+"Tech Support","Yes",2044,29
+"Online Security","No",3498,49.7
+"Online Security","No internet service",1526,21.7
+"Online Security","Yes",2019,28.7
+"Gender","Female",3488,49.5
+"Gender","Male",3555,50.5
+"Senior Citizen","No",5901,83.8
+"Senior Citizen","Yes",1142,16.2
+"Partner","No",3641,51.7
+"Partner","Yes",3402,48.3
